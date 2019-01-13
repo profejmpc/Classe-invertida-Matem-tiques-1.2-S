@@ -1,5 +1,7 @@
 # La classe invertida
 
+{:toc}
+
 ## Matemàtiques semipresencials 1.2 S
 
 <table style="background-color: yellow">
