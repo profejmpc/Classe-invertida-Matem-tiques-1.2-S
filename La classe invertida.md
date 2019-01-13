@@ -2,6 +2,8 @@
 
 ## Matemàtiques semipresencials 1.2 S
 
+A continuació teniu uns vídeos per mirar abans de rebre una classe. Les pautes són les següents:
+
 <table style="background-color: yellow">
   <tr><th>Pautes</th></tr>
   <tr><td>
