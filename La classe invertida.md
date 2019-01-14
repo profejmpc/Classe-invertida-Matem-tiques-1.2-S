@@ -27,6 +27,11 @@ A continuació teniu uns vídeos per mirar abans de rebre una classe. Les pautes
 * [Resoldre equacions al Khan Academy](https://es.khanacademy.org/math/algebra/one-variable-linear-equations)
 * [Fonaments d'àlgebra al Khan Academy](https://es.khanacademy.org/math/algebra/introduction-to-algebra)
 
+### Vídeos per al 24 de gener
+
+* [Equacions de primer grau amb algun denominador](https://youtu.be/4g5Yk0ySyP4)
+* [Equacions de primer grau amb parèntesis](https://youtu.be/sr1ehv2P8_Q)
+
 ## Unitat 3
 
 ### Vídeos per al 29 de novembre
