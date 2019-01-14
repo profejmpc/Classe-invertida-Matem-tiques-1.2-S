@@ -20,6 +20,13 @@ A continuació teniu uns vídeos per mirar abans de rebre una classe. Les pautes
 
 ## Unitat 4
 
+### Vídeos per al 15 de gener
+
+* [Introducció a les equacions de primer grau](https://youtu.be/uwSf4Cbcv0k)
+* [El llenguatge algebraic](https://youtu.be/PJbIHC08-ho)
+* [Resoldre equacions al Khan Academy](https://es.khanacademy.org/math/algebra/one-variable-linear-equations)
+* [Fonaments d'àlgebra al Khan Academy](https://es.khanacademy.org/math/algebra/introduction-to-algebra)
+
 ## Unitat 3
 
 ### Vídeos per al 29 de novembre
